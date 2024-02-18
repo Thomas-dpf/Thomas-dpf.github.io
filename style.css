@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color:rgb(0, 0, 0);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+.cachorro {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.text-main {
+    text-align: center;
+    color:rgb(117, 231, 231);
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+
+.desc {
+    font-family: "Poppins", sans-serif;
+    color:rgb(255, 255, 255);
+    font-weight: 300;
+    text-align: center;
+    font-size: 15px;
+}
